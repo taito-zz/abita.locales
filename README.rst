@@ -1,6 +1,6 @@
-===========
+=============
 abita.locales
-===========
+=============
 
 abita.locales overrides default translations of Plone for ABITA site.
 
