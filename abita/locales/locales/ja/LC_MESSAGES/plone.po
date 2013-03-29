@@ -18,7 +18,7 @@ msgstr ""
 #. Default: "Fill in this form to contact the site owners."
 #: CMFPlone/skins/plone_templates/contact-info.cpt:38
 msgid "description_contact_site_owner"
-msgstr "メールでの問い合わせは、下記のフォームを記入し「送信」をクリックしてください。"
+msgstr "下記のフォームに記入し「送信」をクリックしてください。"
 
 #. Default: "Please enter your full name"
 #: CMFPlone/skins/plone_templates/contact-info.cpt:65
@@ -55,3 +55,14 @@ msgstr "問い合わせメッセージを入力してください。"
 #: CMFPlone/skins/plone_templates/contact-info.cpt:168
 msgid "label_send"
 msgstr "送信"
+
+#. Default: "Site Administrator has been contacted."
+#: CMFPlone/skins/plone_templates/send_feedback_confirm.cpt:18
+msgid "heading_send_feedback_confirm"
+msgstr "問い合わせメール送信完了"
+
+#. Default: "A mail has now been sent to the site administrator regarding your questions and/or comments."
+#: CMFPlone/skins/plone_templates/send_feedback_confirm.cpt:23
+msgid "message_send_feedback_confirm"
+msgstr "問い合わせメールが無事送信されました。"
+
