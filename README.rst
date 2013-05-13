@@ -7,6 +7,11 @@ abita.locales overrides default translations of Plone for ABITA, Santa and Tontt
 Change log
 ----------
 
+0.2.1 (2013-05-13)
+==================
+
+- Updated translations. [taito]
+
 0.2 (2013-03-29)
 ================
 

@@ -15,6 +15,11 @@ msgstr ""
 "Domain: plone\n"
 "X-Is-Fallback-For: ja-jp\n"
 
+#. Default: "${count} characters remaining"
+#: Archetypes/skins/archetypes/widgets/textarea.pt:53
+msgid "label_characters_remaining"
+msgstr "残り${count}文字"
+
 #. Default: "Fill in this form to contact the site owners."
 #: CMFPlone/skins/plone_templates/contact-info.cpt:38
 msgid "description_contact_site_owner"
